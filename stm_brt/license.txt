@@ -1,0 +1,26 @@
+This GTFS is based on the STM's data.
+
+See STM license below.
+
+
+The STM’s Terms of use for GTFS and API
+
+By accessing the Société de transport de Montréal’s data, you agree to comply with all obligations and terms included in these Terms of use. The purpose of these Terms of use is to protect the STM and promote the publication of its data, as well as ensure that users of this data give back the benefits they receive to the community.
+The use of STM data is available under a Creative Commons – Attribution 4.0 CC-BY licence.
+This licence allows data to be distributed, remixed, organized and adapted using source citations.
+The STM reserves the right, at all times or at any time deemed appropriate, to modify or interrupt the service. In addition, you agree that the STM will not be liable to you for any modification, suspension or discontinuation of the service.
+Métro schedules are for information purposes only and are essentially used to determine the duration of a trip and cannot be used to develop an application on métro schedules.
+Policy on STM website content, pages and links
+The STM allows the links, pages and content of the stm.info website to be used in accordance with the following conditions:
+The appearance, position and other aspects of the link, content or pages must not alter or diminish the reputation associated with the STM name or its trademarks or be posted in such a way as to cause confusion among the public or harm or discredit the STM. In such cases, the STM may request that they be removed from the website.
+The appearance, position and other characteristics must not create the false impression that an organization or other entity is affiliated or associated with the STM, or that the STM shares the opinions expressed on the website. The STM reserves the right to require that the linked website displays a warning stating that it is an unofficial website and that the site is in no way endorsed by or associated with the STM, and that the opinions expressed on the website are not those of the STM.
+In the event where a page, several pages or the entire STM website is used on a website, the link must display the website in full-screen mode and not inside a window on the website that is linked to the STM website.
+Referring to the Société de transport de Montréal
+You must refer to the STM as the source when using its data. You must, at the STM’s request, remove such a reference if the STM considers it illegitimate or contrary to public interest.
+You acknowledge that you have no ownership rights, including any intellectual property, to any STM data, trademarks or other STM property. These rights belong exclusively to the STM.
+STM warranty and limited liability disclaimer
+It is understood that the service and data are provided to you “as is” and based on their availability, without any guarantee.
+The STM does not guarantee the availability of the service or data when required, or the security, accuracy or absence of errors in this regard.
+It is understood and agreed that under no circumstances can the STM be held liable for any direct or indirect damage.
+Indemnification
+You agree to indemnify and protect the STM, its officers, directors and employees with respect to any sanction, suit, proceeding, claim, cause of action, demand or obligation of any kind or nature whatsoever arising out of or resulting from your use of the service or data.
